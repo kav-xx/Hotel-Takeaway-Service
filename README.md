@@ -28,8 +28,8 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SKaushikAK/hotel-takeaway-service.git
-    cd hotel-takeaway-service
+    git clone https://github.com/kav-xx/Hotel-Takeaway-Service.git
+    cd Hotel-Takeaway-Service
     ```
 
 2. **Ensure you have Python installed:**
@@ -60,6 +60,6 @@ To use the Hotel Takeaway Service, follow these steps:
 ## Contact
 
 For any inquiries or support, please contact:
-- **Email:** kaushik2004shiva@gmail.com
-- **GitHub:** [SKaushikAK](https://github.com/SKaushikAK)
+- **Email:** kavyasrivj271@gmail.com
+- **GitHub:** [Kavyasri](https://github.com/kav-xx)
 
